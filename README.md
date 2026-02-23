@@ -1,3 +1,4 @@
+![DUALNUTRI](logo.png)
 # DualNutri
 
 **DualNutri** é um aplicativo web simples e acessível que gera dietas personalizadas com base nas informações do usuário, como objetivo físico, peso, altura e rotina.
