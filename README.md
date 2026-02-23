@@ -1,8 +1,8 @@
-# 🥗 DualNutri
+# DualNutri
 
 **DualNutri** é um aplicativo web simples e acessível que gera dietas personalizadas com base nas informações do usuário, como objetivo físico, peso, altura e rotina.
 
-O foco do projeto é **praticidade, baixo custo e eficiência**, ajudando qualquer pessoa a montar uma dieta realista — sem complicação.
+O foco do projeto é **praticidade, baixo custo e eficiência**, ajudando qualquer pessoa a montar uma dieta realista.
 
 ---
 
@@ -30,13 +30,7 @@ O foco do projeto é **praticidade, baixo custo e eficiência**, ajudando qualqu
 
 ## 📥 Como usar
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/dualnutri.git
-```
-
-2. Abra o arquivo `index.html` no navegador
+>>> AINDA NÃO DEFINIDO!
 
 ---
 
@@ -90,11 +84,10 @@ Refeições sugeridas:
 
 ## 🔮 Futuras melhorias
 
-* 💾 Salvar dietas no navegador (LocalStorage)
+* 💾 Salvar dietas num banco de dados
 * 📊 Ajuste automático de macros mais preciso
 * 🍎 Banco de alimentos customizável
 * 📱 Versão mobile (PWA)
-* 🤖 Integração com IA para sugestões mais inteligentes
 
 ---
 
